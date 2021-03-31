@@ -1,0 +1,24 @@
+Java é uma linguagem de programação
+
+1. Java pode ser utilizado para construir qualquer coisa
+2. Java é uma linguagem fácil de aprender
+3. Java é uma linguagem madura e poderosa
+4. Java é uma linguagem muito popular
+5. Java tem um amplo mercado de trabalho
+6. Java tem muita informação disponível na internet
+7. Java é multiplataforma (macos,linux,windows)
+
+Mascote Duque - Inspirado em jornadas nas estrelas
+
+Historia 
+
+Sunmicrosystem 1991 - James Gosling criou a linguaguem "Oak" mais teve que mudar para 
+java pois "Oak já existia e erra registrada", 1995 nasce o java, 1996 lançado o jdk no
+javaone, 1998 a Visa colocou o java nos cartões de crédito, 2002 78% dos executivos 
+recomendam o uso, 2004 Nasa mandou um robo para Marte com java, 2009 a Oracle comprou
+a Sunmicrosystem.
+
+Possibilidades com java
+
+Uso em desktop, notebook, tablet, celulares, servidores, web, etc, java está em todos 
+os lugares

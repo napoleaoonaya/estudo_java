@@ -1,0 +1,17 @@
+Para instalar o java jdk
+
+https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+
+Quando instala o jdk 16 ele já configura o java e o javac
+
+
+Tipos de Java
+
+SE, EE, ME
+
+Java Doc
+
+https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+
+
+

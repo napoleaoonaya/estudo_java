@@ -1,0 +1,18 @@
+Arquivos .class é o seu byte code, o próprio programa
+
+Arquivos .java é o código fonte
+
+Atenção! o nome do arquivo java deve ser sempre o mesmo nome da classe !!!
+
+Para compilar um arquivo java usamos o javac Teste.java, e para executar o
+arquivo que foi compilado usamos java Teste, não precisa usar o Teste.class
+
+O byte code é portavel se pode rodar em qualquer máquina
+
+
+Método para saída
+print na mesma linha
+println em outra linha
+printf sáida de Strings
+
+

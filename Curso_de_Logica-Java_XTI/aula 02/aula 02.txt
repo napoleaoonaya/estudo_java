@@ -1,0 +1,35 @@
+Hardware: Parte física
+
+Software: Parte lógica 
+
+Hardware é organizado em:
+
+Entrada
+Saída
+Processamento
+Memória 
+Armazenamento
+
+
+Entrada: teclado, mouse, scaner, leitor de código de barras
+Saída: monitor, impressora, caixa de som
+Processamento: cálculos de multiplicação,divisão,subtração,adição,gerenciamento
+Mémoria: volateis Memória RAM
+Armazenamento: hard disk, pendrive, cd, dvd, blueray
+
+Linguagem que a CPU entende é a binária 0 e 1 - Linguagem de máquina, ligado e 
+desligado, tudo que o processador processa é em forma binária 0 e 1, as linguagems
+evoluiram
+
+Linguagem de máquina 0 e 1 sem tradução, linguagem assembly - tradutor assembler, 
+linguagem de alto nível - tradutor compilador
+
+
+Programas de computador:
+
+Usuário
+Programa de computador
+Sistema Operacional
+Hardware
+
+

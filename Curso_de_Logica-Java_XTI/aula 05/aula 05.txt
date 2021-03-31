@@ -1,0 +1,33 @@
+// comentário de uma linha
+
+/*
+* comentário de multipla linha
+*/
+
+/**
+* comentário de java doc
+*/
+
+
+Programa Java tem uma estrutura
+
+Classe
+Método
+Instruções
+
+Procurar code conventions java
+
+Padrões Java
+1 - Arquivos devem tem o mesmo nome da Classe
+2 - O nome da Classe de começar sempre com a letra maíuscula
+3 - Para nome composto usamos o CamelCase exemplo HelloWorld
+4 - Não usar números e nem espaço no nome da classe
+5 - Para métodos o nome começa minúsculo e segundo nome maiúsculo exemplo somaNumeros
+6 - A linguaguem java é case sensitive 
+7 - Não se pode usar palavras reservadas no java como nome de classe e método, procure java keywords
+8 - O nome da classe deve representar um objeto 
+9 - O nome do método deve indicar uma ação
+10 - Caracteres de especiais \t tabulação, \n quebra de linha, \" aspas, \\ barra
+
+
+
