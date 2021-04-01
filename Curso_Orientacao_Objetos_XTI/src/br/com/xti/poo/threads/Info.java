@@ -19,6 +19,13 @@ public class Info {
 	 * 		run						start (ponto de inicio)
 	 * 								stop  (ponto de parada)
 	 * 								sleep (esperando)
+	 * 
+	 * 
+	 * 
+	 * Thread Produtoras  - Ponte - Thread Consumidoras
+	 * Escreve dados na ponte       Lê dados da ponte   
+	 * 
+	 * 
 	 */								
 
 }
